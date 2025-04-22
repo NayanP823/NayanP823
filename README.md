@@ -2,9 +2,9 @@
 - 👀 I’m interested in AI and ML
 - 🌱 I’m currently learning ML 
 - 💞️ I’m looking to collaborate on ML
-- 📫 How to reach me i am everywhere 
+- 📫 How to reach me i am on linkedin  
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact:  I am Batman
+- ⚡ Fun fact:  
 
 <!---
 NayanP823/NayanP823 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
